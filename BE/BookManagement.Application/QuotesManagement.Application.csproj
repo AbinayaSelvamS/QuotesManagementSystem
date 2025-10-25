@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookManagement.Common\QuotesManagement.Common.csproj" />
+    <ProjectReference Include="..\BookManagement.Data\QuotesManagement.Data.csproj" />
+    <ProjectReference Include="..\BookManagement.Infrastructure\QuotesManagement.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

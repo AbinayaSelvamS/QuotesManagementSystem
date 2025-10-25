@@ -1,0 +1,74 @@
+<div class="quote-page">
+  <h1>Quote Library</h1>
+
+  <!-- Search Form -->
+  <form [formGroup]="searchForm" (ngSubmit)="loadQuotes()" class="search-form">
+    <div class="form-group">
+      <label for="author">Author</label>
+      <input
+        id="author"
+        type="text"
+        formControlName="author"
+        placeholder="Search by author"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="quote">Quote</label>
+      <input
+        id="quote"
+        type="text"
+        formControlName="quote"
+        placeholder="Search by quote text"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="tags">Tags</label>
+      <input
+        id="tags"
+        type="text"
+        formControlName="tags"
+        placeholder="Search by tags (e.g. life, happiness)"
+      />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Search</button>
+    <button type="button" class="btn btn-secondary" (click)="getUserData()">Reset</button>
+  </form>
+
+  <hr />
+
+  <!-- Quote List -->
+  <div class="quote-list" *ngIf="quotes.length; else noResults">
+  <div *ngFor="let q of quotes" class="quote-card">
+
+    <!-- Inline edit form -->
+    <form *ngIf="editingQuoteId === q.id" [formGroup]="editForm" (ngSubmit)="saveQuote()">
+      <input formControlName="author" placeholder="Author" />
+      <textarea formControlName="quoteText" placeholder="Quote"></textarea>
+      <input formControlName="tags" placeholder="Tags (comma-separated)" />
+      <button type="submit">Save</button>
+      <button type="button" (click)="cancelEdit()">Cancel</button>
+    </form>
+
+    <!-- Display mode -->
+    <div *ngIf="editingQuoteId !== q.id">
+      <p class="quote-text">“{{ q.quote }}”</p>
+      <p class="quote-author">— {{ q.author }}</p>
+      <div class="quote-tags">
+        <span *ngFor="let tag of q.tags" class="tag">#{{ tag }}</span>
+      </div>
+      <div class="quote-actions">
+        <button type="button" (click)="editQuote(q)" class="btn-edit">Edit</button>
+        <button type="button" (click)="deleteQuote(q.id!)" class="btn-delete">Delete</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<ng-template #noResults>
+  <p>No quotes found.</p>
+</ng-template>
+

@@ -1,0 +1,11 @@
+<div class="quote-form-container">
+  <form [formGroup]="addForm" (ngSubmit)="submitQuote()" class="add-quote-form">
+    <h2>Add a New Quote</h2>
+
+    <input formControlName="author" placeholder="Author" required />
+    <input formControlName="quoteText" placeholder="Quote" required />
+    <input formControlName="tags" placeholder="Tags (comma separated)" />
+
+    <button type="submit" [disabled]="addForm.invalid" >Add Quote</button>
+  </form>
+</div>

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|solutionrelative:bookmanagement\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}|BookManagement.Common\\QuotesManagement.Common.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement.common\\dto\u0027s\\reqsearchdto\\requestsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}|BookManagement.Common\\QuotesManagement.Common.csproj|solutionrelative:bookmanagement.common\\dto\u0027s\\reqsearchdto\\requestsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}|BookManagement.Common\\QuotesManagement.Common.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement.common\\model\\quotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}|BookManagement.Common\\QuotesManagement.Common.csproj|solutionrelative:bookmanagement.common\\model\\quotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1024A757-E903-4989-B753-42E5B7A8D913}|BookManagement.Data\\QuotesManagement.Data.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement.data\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1024A757-E903-4989-B753-42E5B7A8D913}|BookManagement.Data\\QuotesManagement.Data.csproj|solutionrelative:bookmanagement.data\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|solutionrelative:bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048551B-1557-4D1C-97F7-9C959D366DC2}|BookManagement\\QuotesManagement.API.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3795B969-1A8B-4FF6-8771-D450E81B0547}|BookManagement.Application\\QuotesManagement.Application.csproj|c:\\users\\softsuave\\source\\repos\\bookmanagement\\be\\bookmanagement.application\\service\\quotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3795B969-1A8B-4FF6-8771-D450E81B0547}|BookManagement.Application\\QuotesManagement.Application.csproj|solutionrelative:bookmanagement.application\\service\\quotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requestSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Common\\DTO\u0027s\\reqSearchDTO\\requestSearchDto.cs",
+              "RelativeDocumentMoniker": "BookManagement.Common\\DTO\u0027s\\reqSearchDTO\\requestSearchDto.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Common\\DTO\u0027s\\reqSearchDTO\\requestSearchDto.cs",
+              "RelativeToolTip": "BookManagement.Common\\DTO\u0027s\\reqSearchDTO\\requestSearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:51:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quotes.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Common\\Model\\Quotes.cs",
+              "RelativeDocumentMoniker": "BookManagement.Common\\Model\\Quotes.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Common\\Model\\Quotes.cs",
+              "RelativeToolTip": "BookManagement.Common\\Model\\Quotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:54:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Data\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagement.Data\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Data\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookManagement.Data\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:54:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuotesService.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Application\\Service\\QuotesService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Service\\QuotesService.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement.Application\\Service\\QuotesService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Service\\QuotesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:40:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "BookManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T06:29:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:55:02.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\Softsuave\\source\\repos\\BookManagement\\BE\\BookManagement\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAACEAAABAAwAAAAAewC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:35:41.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

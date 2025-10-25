@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesManagement.API", "BookManagement\QuotesManagement.API.csproj", "{0048551B-1557-4D1C-97F7-9C959D366DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesManagement.Infrastructure", "BookManagement.Infrastructure\QuotesManagement.Infrastructure.csproj", "{8F02BD58-6A8D-42D7-A4CC-6C5A87D4357B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesManagement.Data", "BookManagement.Data\QuotesManagement.Data.csproj", "{1024A757-E903-4989-B753-42E5B7A8D913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesManagement.Application", "BookManagement.Application\QuotesManagement.Application.csproj", "{3795B969-1A8B-4FF6-8771-D450E81B0547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesManagement.Common", "BookManagement.Common\QuotesManagement.Common.csproj", "{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0048551B-1557-4D1C-97F7-9C959D366DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0048551B-1557-4D1C-97F7-9C959D366DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0048551B-1557-4D1C-97F7-9C959D366DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0048551B-1557-4D1C-97F7-9C959D366DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F02BD58-6A8D-42D7-A4CC-6C5A87D4357B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F02BD58-6A8D-42D7-A4CC-6C5A87D4357B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F02BD58-6A8D-42D7-A4CC-6C5A87D4357B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F02BD58-6A8D-42D7-A4CC-6C5A87D4357B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1024A757-E903-4989-B753-42E5B7A8D913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1024A757-E903-4989-B753-42E5B7A8D913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1024A757-E903-4989-B753-42E5B7A8D913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1024A757-E903-4989-B753-42E5B7A8D913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3795B969-1A8B-4FF6-8771-D450E81B0547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3795B969-1A8B-4FF6-8771-D450E81B0547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3795B969-1A8B-4FF6-8771-D450E81B0547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3795B969-1A8B-4FF6-8771-D450E81B0547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B15CE3-D3B3-4B56-BBC9-C6D84AD78063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE5DDA5-1CDD-49EA-A779-48C2479CD995}
+	EndGlobalSection
+EndGlobal

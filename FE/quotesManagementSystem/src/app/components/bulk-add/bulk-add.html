@@ -1,0 +1,14 @@
+<h2>Add Bulk Quotes</h2>
+
+<form [formGroup]="bulkForm" (ngSubmit)="saveBulk()">
+  <div formArrayName="quotes">
+    <div *ngFor="let q of quotes.controls; let i = index" [formGroupName]="i" class="quote-group">
+      <input formControlName="author" placeholder="Author" />
+      <textarea formControlName="quote" placeholder="Quote"></textarea>
+      <input formControlName="tags" placeholder="Tags (comma-separated)" />
+    </div>
+  </div>
+
+  <button type="button" (click)="addQuote()">+ Add Another</button>
+  <button type="submit">Save All</button>
+</form>
